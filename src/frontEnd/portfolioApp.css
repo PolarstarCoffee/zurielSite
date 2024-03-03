@@ -1,0 +1,17 @@
+h1 {
+    color: darkcyan;
+}
+
+p {
+    color: darkred;
+    background: -o-linear-gradient();
+    text-align: left;
+    font-size: 20px;
+    width: 45%;
+
+}
+
+body {
+    background-color: #ac9789;
+    font-family: monospace;
+}
