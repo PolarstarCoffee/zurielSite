@@ -1,5 +1,5 @@
 ==Portfolio Website==
--Deploy on Vercel
+-Deploy somewhere
 -Design:
 	!-Y2k
 	!-Digital
