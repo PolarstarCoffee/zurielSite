@@ -7,6 +7,7 @@ h1 {
     padding-bottom: 4px;
     margin-bottom: 7px;
     border-bottom: 1px solid rgb(160, 160, 160);
+    font-family: 'emotionengine';
 
 }
 
@@ -21,6 +22,27 @@ h1 {
 
 .subMenu {
     margin-bottom: 22px;
+    font-family: 'emotionengine';
+}
+
+#menu-home {
+    color: inherit;
+}
+
+#menu-works {
+    color: inherit;
+}
+
+#menu-resume {
+    color: inherit;
+}
+
+#menu-about {
+    color: inherit;
+}
+
+#menu-contact {
+    color: inherit;
 }
 
 div {
@@ -33,7 +55,6 @@ div {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 50px;
-    font-family: 'emotionengine';
 }
 
 #social_media {
@@ -51,7 +72,7 @@ a {
 }
 
 #bio {
-    font-family: 'monospace';
+    font-family: 'sourcesansproblack';
     color: black;
     text-align: left;
     font-size: 20px;
@@ -94,6 +115,13 @@ a {
 @font-face {
     font-family: 'oldcomputerst';
     src: url('Fonts/old_computer_st/oldcomputerst.ttf') format('truetype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'sourcesansproblack';
+    src: url('Fonts/source-sans-pro/SourceSansPro-Regular.otf') format('opentype');
     font-weight: normal;
     font-size: normal;
 }
