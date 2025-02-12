@@ -1,0 +1,73 @@
+Current Reads
+
+-Programming Interviews Exposed: Secrets to Landing Your Next Job Third Edition by John Mongan, Eric Giguere, Noah Kindler (ISBN: 978-1-118-26136-1)
+
+-Game Engine Architecture, Third Edition by Jason Gregory
+(ISBN: 907-1-138-034545-4)
+
+-Code Complete, Second Edition by Steve McConnell
+(ISBN: 0-7356-1967-0)
+
+Bookshelf
+
+-Agile Game Development with Scrum, by Clinton Keith
+(ISBN: 0-321-61852-1)
+
+-Introduction to 3D Game Programming with DirectX 11,
+by Frank D. Luna 
+(ISBN: 978-1-9364202-2-3)
+
+-Learn C++ By Making Games by Erik Yuzwa and Francois Dominic
+Laramee
+(ISBN: 978-1-58450-455-2)
+
+-The C++ Standard Library from Scratch, by Pablo Halpern
+(ISBN: 0-7897-2128-7)
+
+-Game Programming Gems, Edited by Mark DeLoura
+(ISBN: 1-58450-049-2)
+
+-Game Programming Gems 6, Edited by Michael Dickheiser
+(ISBN: 1-58450-450-1)
+
+-Learn & Use Linux Made Easy, by Maxwell Cooter and
+David Cartwright
+(ISBN: 978-1-78361-711-1)
+
+-Writing Secure Code Second Edition, by Michael Howard
+and David LeBlanc
+(ISBN: 0-7356-1722-8)
+
+-C# and the .NET Platform Second Edition, by Andrew Troelsen
+(ISBN: 1-59059-055-4)
+
+-Object Oriented Data Structures using JAVA Third Edition,
+by Nell Dale, Daniel T. Joyce, Chip Weems
+(ISBN: 978-93-80853-29-1)
+
+-Python Crash Course Second Edition by Eric Matthes
+(ISBN13: 978-1-59327-928-8)
+
+-STL Tutorial and Reference Guide by Musser Saini
+(ISBN: 0-201-63398-1)
+
+-Data Structures: Abstraction and Design Using Java Second
+Edition, by Elliot B. Koffman and Paul A. T. Wolfgang
+(ISBN: 978-0-470-12870-1)
+
+-System Programming with C and Unix by Adam Hoover
+(ISBN: 978-0-13-606712-2)
+
+-Computer Systems: A Programmer's Perspective, Third Edition
+by Randal E. Bryant and David R. O'Hallaron
+(ISBN: 978-93-325-7390-1)
+
+-Programming in C Fourth Edition by Stephen G. Kochan
+(ISBN: 978-0-321-77641-9)
+
+-C++ Crash Course by Josh Lospinoso
+(ISBN: 978-1-59327-888-5)
+
+-A Practical Guide to Linux Commands, Editors, and
+Shell Programming, Second Edition by Mark G. Sobell
+(ISBN: 978-0-13-136736-4)
