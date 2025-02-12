@@ -71,11 +71,15 @@ a {
     width: 20px;
 }
 
+#bio_section {
+    position: relative;
+}
+
 #bio {
     font-family: 'sourcesansproblack';
     color: black;
     text-align: left;
-    font-size: 20px;
+    font-size: 12px;
     width: 40%;
     height: 35%;
     border-width: 5px;
