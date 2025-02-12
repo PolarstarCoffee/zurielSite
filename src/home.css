@@ -1,5 +1,8 @@
 h1 {
-    color: #687418;
+    color: #0c1f52;
+    font-size: 14px;
+    font-family: 'sourcesansproreg';
+    font-weight: normal;
 }
 
 #header {
@@ -18,6 +21,7 @@ h1 {
 
 #title {
     font-size: 20px;
+    color: #0c1f52;
 }
 
 .subMenu {
@@ -76,7 +80,7 @@ a {
 }
 
 #bio {
-    font-family: 'sourcesansproblack';
+    font-family: 'sourcesansproreg';
     color: black;
     text-align: left;
     font-size: 12px;
@@ -122,7 +126,7 @@ a {
 }
 
 @font-face {
-    font-family: 'sourcesansproblack';
+    font-family: 'sourcesansproreg';
     src: url('Fonts/source-sans-pro/SourceSansPro-Regular.otf') format('opentype');
     font-weight: normal;
     font-size: normal;
