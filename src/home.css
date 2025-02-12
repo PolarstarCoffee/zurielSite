@@ -10,6 +10,15 @@ h1 {
 
 }
 
+#subtitle {
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+#title {
+    font-size: 20px;
+}
+
 .subMenu {
     margin-bottom: 22px;
 }
@@ -42,7 +51,7 @@ a {
 }
 
 #bio {
-    font-family: 'emotionengine';
+    font-family: 'monospace';
     color: black;
     text-align: left;
     font-size: 20px;
@@ -59,4 +68,32 @@ a {
     src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'antiasemisquare';
+    src: url('Fonts/anita_semi_square/Anitasemisquare.ttf') format('truetype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'elegante';
+    src: url('Fonts/elegante/ELEGN.TTF') format('truetype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'logostile';
+    src: url('Fonts/logostile/Logostile.ttf') format('truetype');
+    font-weight: normal;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'oldcomputerst';
+    src: url('Fonts/old_computer_st/oldcomputerst.ttf') format('truetype');
+    font-weight: normal;
+    font-size: normal;
 }
