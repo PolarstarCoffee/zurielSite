@@ -80,6 +80,8 @@ a {
 }
 
 #bio {
+    margin-top: 15px;
+    margin-right: 60px;
     font-family: 'sourcesansproreg';
     color: black;
     text-align: left;
@@ -88,6 +90,7 @@ a {
     height: 35%;
     box-sizing: border-box;
     position: relative;
+    padding-bottom: 20px;
 }
 
 @font-face {
