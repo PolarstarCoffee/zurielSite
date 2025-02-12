@@ -24,6 +24,7 @@ div {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 50px;
+    font-family: 'emotionengine';
 }
 
 #social_media {
@@ -40,8 +41,8 @@ a {
     width: 20px;
 }
 
-#bio_section {
-    font-family: monospace;
+#bio {
+    font-family: 'emotionengine';
     color: black;
     text-align: left;
     font-size: 20px;
@@ -51,4 +52,11 @@ a {
     border-color: darkcyan;
     box-sizing: border-box;
     border-style: ridge;
+}
+
+@font-face {
+    font-family: 'emotionengine';
+    src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
