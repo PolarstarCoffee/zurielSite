@@ -130,6 +130,19 @@ p {
     font-weight: normal;
 }
 
+.resumeBody {
+    display: flex;
+    position: relative;
+    align-items: start;
+    gap: 20px;
+    border: none;
+}
+
+#resumetext {
+    text-align: right;
+    margin-left: 5px;
+}
+
 @font-face {
     font-family: 'emotionengine';
     src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
