@@ -5,6 +5,13 @@ h1 {
     font-weight: normal;
 }
 
+h2 {
+    color: #102a72;
+    font-size: 15px;
+    font-family: 'sourcesansproreg';
+    font-weight: normal;
+}
+
 #header {
     margin-top: 25px;
     padding-bottom: 4px;
@@ -100,6 +107,14 @@ a {
     padding-bottom: 20px;
     width: 40%;
     height: 35%;
+}
+
+#homemonad1 {
+    padding-top: 10px;
+    width: 500px;
+    height: 400px;
+    padding-bottom: 20px;
+    position: relative;
 }
 
 p {
