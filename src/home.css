@@ -139,8 +139,9 @@ p {
 }
 
 #resumetext {
-    text-align: right;
+    text-align: left;
     margin-left: 5px;
+    max-width: 300px;
 }
 
 @font-face {
