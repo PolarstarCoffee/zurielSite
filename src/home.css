@@ -131,6 +131,10 @@ p {
     font-weight: normal;
 }
 
+#monadredir {
+    color: inherit;
+}
+
 .resumeBody {
     display: flex;
     position: relative;
