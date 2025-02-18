@@ -36,24 +36,45 @@ h2 {
     font-family: 'emotionengine';
 }
 
+
 #menu-home {
     color: inherit;
+}
+
+#menu-home:hover {
+    color: rgb(81, 81, 82);
 }
 
 #menu-works {
     color: inherit;
 }
 
+#menu-works:hover {
+    color: rgb(81, 81, 82);
+}
+
 #menu-resume {
     color: inherit;
+}
+
+#menu-resume:hover {
+    color: rgb(81, 81, 82);
 }
 
 #menu-about {
     color: inherit;
 }
 
+#menu-about:hover {
+    color: rgb(81, 81, 82);
+}
+
 #menu-contact {
     color: inherit;
+}
+
+#menu-contact:hover {
+    color: rgb(81, 81, 82);
 }
 
 div {
@@ -186,7 +207,7 @@ p {
 }
 
 .next {
-    right: 0;
+    right: 1;
     border-radius: 3px 0 0 3px;
 }
 
