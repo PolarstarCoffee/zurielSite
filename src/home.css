@@ -263,6 +263,25 @@ p {
 
 }
 
+#aboutstart {
+    position: relative;
+    margin-top: 15px;
+    margin-right: 60px;
+    color: black;
+    text-align: left;
+    width: 50%;
+    height: 45%;
+    box-sizing: border-box;
+    padding-bottom: 20px;
+}
+
+#aboutnext {
+    position: relative;
+    margin-top: 10px;
+    margin-right: 40px;
+    width: 60%;
+}
+
 @font-face {
     font-family: 'emotionengine';
     src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
