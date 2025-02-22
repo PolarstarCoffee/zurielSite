@@ -282,6 +282,15 @@ p {
     width: 60%;
 }
 
+.bookshelfsection {
+    width: 500px;
+    margin-top: 30px;
+}
+
+#bookshelftitle {
+    border-bottom: 1px solid rgb(160, 160, 160);
+}
+
 @font-face {
     font-family: 'emotionengine';
     src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
