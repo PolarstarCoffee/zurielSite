@@ -181,6 +181,26 @@ p {
     color: inherit;
 }
 
+#monadredir:hover {
+    color: rgb(81, 81, 82);
+}
+
+#p4redir {
+    color: inherit;
+}
+
+#p4redir:hover {
+    color: rgb(81, 81, 82);
+}
+
+#ibunnredir {
+    color: inherit;
+}
+
+#ibunnredir:hover {
+    color: rgb(81, 81, 82);
+}
+
 .resumeBody {
     display: flex;
     position: relative;
