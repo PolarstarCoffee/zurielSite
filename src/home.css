@@ -21,6 +21,16 @@ h2 {
 
 }
 
+#headshot {
+    border-radius: 0px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 260px;
+    height: 340px;
+    float: right;
+}
+
 #subtitle {
     margin-left: 10px;
     font-size: 15px;
