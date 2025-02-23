@@ -32,11 +32,12 @@
             <a href="contact.html" id="menu-contact">CONTACT</a>
         </div>
         <div class="contactform">
-            <form action="" class="contact-left">
+            <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
                 <div class="contact-title">
                     <p>Feel free to send a message my way! I'll try to respond as soon as I'm able to!</p>
                     <hr>
                 </div>
+                <input type="hidden" name="access_key" value="162f61ce-073c-40e7-be9d-6f2c03e2b7ec">
                 <input type="text" name="name" placeholder="Your Name" class="contact-name" required>
                 <input type="email" name="email" placeholder="Your Email" class="contact-email" required>
                 <textarea name="message" placeholder="Message" class="contact-message" required></textarea>
