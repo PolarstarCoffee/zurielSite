@@ -312,6 +312,41 @@ li {
     padding-bottom: 5px;
 }
 
+hr {
+    margin-right: 60px;
+}
+
+.contactform {
+    height: 100vh;
+    align-content: normal;
+    justify-content: space-evenly;
+}
+
+.contact-left {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+
+.contact-name {
+    font-family: 'sourcesansproreg';
+}
+
+.contact-email {
+    font-family: 'sourcesansproreg';
+}
+
+.contact-message {
+    font-family: 'sourcesansproreg';
+    width: 400px;
+    height: 50px;
+}
+
+button {
+    font-family: 'sourcesansproreg';
+}
+
 @font-face {
     font-family: 'emotionengine';
     src: url('Fonts/emotion_engine/EmotionEngine.otf') format('opentype');
