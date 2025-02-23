@@ -293,6 +293,13 @@ p {
 
 ul {
     margin-bottom: 15px;
+    font-family: 'sourcesansproreg';
+    font-weight: normal;
+    font-size: 12.5px;
+}
+
+li {
+    padding-bottom: 5px;
 }
 
 @font-face {
