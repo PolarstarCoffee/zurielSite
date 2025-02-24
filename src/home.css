@@ -201,6 +201,11 @@ p {
     color: rgb(81, 81, 82);
 }
 
+#monadcover {
+    width: 400px;
+    height: 300px;
+}
+
 .resumeBody {
     display: flex;
     position: relative;
