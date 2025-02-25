@@ -177,6 +177,55 @@ p {
     font-weight: normal;
 }
 
+#projectText {
+    margin-top: 15px;
+    margin-right: 60px;
+    color: black;
+    text-align: left;
+    width: 40%;
+    height: 35%;
+    box-sizing: border-box;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+div.monad {
+    height: 350px;
+    display: block;
+}
+
+div.monad img {
+    float: right;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+div.p4 {
+    height: 350px;
+    display: block;
+}
+
+div.p4 img {
+    float: right;
+    max-width: 400px;
+    max-height: 300px;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+div.ibunn {
+    height: 350px;
+    display: block;
+}
+
+div.ibunn img {
+    float: right;
+    max-width: 400px;
+    max-height: 300px;
+    margin-top: 0%;
+    margin-right: 20px;
+}
+
 #monadredir {
     color: inherit;
 }
