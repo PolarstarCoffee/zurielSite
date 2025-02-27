@@ -30,6 +30,28 @@
             <a href="about.html" id="menu-about">ABOUT</a>
             <a href="contact.html" id="menu-contact">CONTACT</a>
         </div>
+
+        <div class="monadSlideshow">
+            <div class="monadslides">
+                <img src="img/proj_img/ibunn_gameplay2.png" alt="Monad start" id="homemonad1">
+            </div>
+            <div class="monadslides">
+                <img src="img/proj_img/monad_hall.png" alt="Monad Hallway" id="homemonad2">
+            </div>
+            <div class="monadslides">
+                <img src="img/proj_img/monad_alley.png" alt="Monad intro" id="homemonad3">
+            </div>
+            <!-- Next and previous buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+        <br>
+        <div style="text-align: center;">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
+        <script src="monad.js"></script>
     </div>
 </body>
 
