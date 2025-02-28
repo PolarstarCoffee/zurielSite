@@ -439,35 +439,6 @@ button {
     font-weight: normal;
     font-style: normal;
 }
-
-@font-face {
-    font-family: 'antiasemisquare';
-    src: url('Fonts/anita_semi_square/Anitasemisquare.ttf') format('truetype');
-    font-weight: normal;
-    font-size: normal;
-}
-
-@font-face {
-    font-family: 'elegante';
-    src: url('Fonts/elegante/ELEGN.TTF') format('truetype');
-    font-weight: normal;
-    font-size: normal;
-}
-
-@font-face {
-    font-family: 'logostile';
-    src: url('Fonts/logostile/Logostile.ttf') format('truetype');
-    font-weight: normal;
-    font-size: normal;
-}
-
-@font-face {
-    font-family: 'oldcomputerst';
-    src: url('Fonts/old_computer_st/oldcomputerst.ttf') format('truetype');
-    font-weight: normal;
-    font-size: normal;
-}
-
 @font-face {
     font-family: 'sourcesansproreg';
     src: url('Fonts/source-sans-pro/SourceSansPro-Regular.otf') format('opentype');
