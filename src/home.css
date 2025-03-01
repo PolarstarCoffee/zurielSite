@@ -141,9 +141,9 @@ a {
     height: 35%;
 }
 
-#homemonad1 {
+#monadslideimg {
     padding-top: 10px;
-    max-width: fit-content;
+    max-width: 540px;
     height: 400px;
     padding-bottom: 20px;
     position: relative;
