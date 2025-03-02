@@ -141,7 +141,7 @@ a {
     height: 35%;
 }
 .monadslideshow{
-    position: right;
+    text-align: right;
 }
 #monadslideimg {
     padding-top: 10px;
