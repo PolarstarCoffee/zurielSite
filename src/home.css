@@ -150,6 +150,16 @@ a {
     padding-bottom: 20px;
     position: relative;
 }
+.slideshow{
+    text-align: right;
+}
+#slideimg {
+    padding-top: 10px;
+    max-width: 540px;
+    height: 400px;
+    padding-bottom: 20px;
+    position: relative;
+}
 
 #homemonad2 {
     padding-top: 10px;
