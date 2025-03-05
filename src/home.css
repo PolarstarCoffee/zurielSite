@@ -118,32 +118,20 @@ a {
     width: 20px;
 }
 
-#bio_section {
-    position: relative;
-}
-
 #bio {
     margin-top: 15px;
-    margin-right: 60px;
+    margin-right: 5px;
     color: black;
     text-align: left;
-    width: 40%;
-    height: 35%;
     box-sizing: border-box;
-    position: relative;
+    flex-direction: column;
     padding-bottom: 20px;
-}
-
-#homeprojintro {
-    text-align: justify;
-    padding-bottom: 20px;
-    width: 40%;
-    height: 35%;
 }
 
 .workbody {
     display: flex;
     align-items: start;
+    gap: 20px;
 }
 
 .slideshow {
@@ -283,9 +271,8 @@ div.ibunn img {
 }
 
 .homepageSlideshow {
-    align-items: start;
+    float: right;
     text-align: right;
-
 }
 
 .hpslides {
