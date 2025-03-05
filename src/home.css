@@ -141,16 +141,9 @@ a {
     height: 35%;
 }
 
-.monadslideshow {
-    text-align: right;
-}
-
-#monadslideimg {
-    padding-top: 10px;
-    max-width: 540px;
-    height: 400px;
-    padding-bottom: 20px;
-    position: relative;
+.workbody {
+    display: flex;
+    align-items: start;
 }
 
 .slideshow {
@@ -160,21 +153,6 @@ a {
 #slideimg {
     padding-top: 10px;
     max-width: 540px;
-    height: 400px;
-    padding-bottom: 20px;
-    position: relative;
-}
-
-#homemonad2 {
-    padding-top: 10px;
-    width: 500px;
-    height: 400px;
-    padding-bottom: 20px;
-    position: relative;
-}
-
-#homemonad3 {
-    padding-top: 10px;
     height: 400px;
     padding-bottom: 20px;
     position: relative;
@@ -194,6 +172,18 @@ p {
 }
 
 #projectText {
+    margin-top: 15px;
+    margin-right: 60px;
+    color: black;
+    text-align: left;
+    width: 40%;
+    height: 35%;
+    box-sizing: border-box;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.projectdesc {
     margin-top: 15px;
     margin-right: 60px;
     color: black;
@@ -285,14 +275,22 @@ div.ibunn img {
     max-width: 300px;
 }
 
+#monadslideimg {
+    padding-top: 10px;
+    max-width: 540px;
+    height: 400px;
+    padding-bottom: 20px;
+}
+
 .homepageSlideshow {
-    max-width: fit-content;
-    position: relative;
-    margin: auto;
+    align-items: start;
+    text-align: right;
+
 }
 
 .hpslides {
-    display: none;
+    text-align: right;
+    align-items: start;
 }
 
 .prev,
