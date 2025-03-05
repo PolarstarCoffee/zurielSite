@@ -123,8 +123,6 @@ a {
     margin-right: 5px;
     color: black;
     text-align: left;
-    box-sizing: border-box;
-    flex-direction: column;
     padding-bottom: 20px;
 }
 
@@ -265,7 +263,7 @@ div.ibunn img {
 
 #monadslideimg {
     padding-top: 10px;
-    max-width: 540px;
+    width: 540px;
     height: 400px;
     padding-bottom: 20px;
 }
@@ -273,6 +271,7 @@ div.ibunn img {
 .homepageSlideshow {
     float: right;
     text-align: right;
+    margin: 15px;
 }
 
 .hpslides {
