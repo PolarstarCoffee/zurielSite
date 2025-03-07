@@ -138,7 +138,7 @@ a {
 
 #slideimg {
     padding-top: 10px;
-    max-width: 540px;
+    width: 540px;
     height: 400px;
     padding-bottom: 20px;
     position: relative;
