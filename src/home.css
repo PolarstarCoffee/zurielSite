@@ -20,6 +20,13 @@ h2 {
     font-family: 'emotionengine';
 
 }
+#projsource{
+    
+    color: inherit;
+}
+#projsource:hover{
+    color: #102a72;
+}
 
 #headshot {
     border-radius: 0px;
