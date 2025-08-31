@@ -20,11 +20,13 @@ h2 {
     font-family: 'emotionengine';
 
 }
-#projsource{
-    
+
+#projsource {
+
     color: inherit;
 }
-#projsource:hover{
+
+#projsource:hover {
     color: #102a72;
 }
 
@@ -121,8 +123,8 @@ a {
 }
 
 .social_ico {
-    height: 20px;
-    width: 20px;
+    height: 25px;
+    width: 25px;
 }
 
 #bio {
