@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <head>
-    <meta charset="UTF-8" />
-    <title>Octavio Zuriel Zavala - Home</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Octavio Zuriel Zavala - Nova Sound</title>
     <link rel="stylesheet" href="home.css">
     <link rel="icon" type="image/webp" href="img/ico/Gg1sol.webp">
 </head>
 
-<body id>
+<body>
     <div id="page">
         <div id="header">
             <span id="title" class="titleFont">Octavio Zuriel Zavala</span>
@@ -30,39 +30,37 @@
             <a href="about.html" id="menu-about">ABOUT</a>
             <a href="contact.html" id="menu-contact">CONTACT</a>
         </div>
-        <h1>Hello, Hello!</h1>
         <div class="workbody">
-            <div class="worktextbody">
-                <p id="bio">
-                    I’m Octavio, or Zuriel, a Game Design and Computer Science graduate specializing in game and
-                    application development.
-                    With a strong
-                    foundation in programming and a commitment to continuous learning, I’m eager to contribute my skills
-                    to innovative
-                    projects and digital solutions.
-                </p>
-                <p id="bio">
-                    To the right are glances from the projects I've worked on, with more detail on my 'Works'
-                    section on the site.
-                    Take a gander!
+            <div class="projectdesc">
+                <p>
+                    This project's primary purpose was to learn how to properly read meta data from MP3 files and play
+                    them
+                    through
+                    a GUI. In addition to me learning Java through project-based learning, and taking a step away from
+                    development in the context of game applications and
+                    toward more or less traditional software application development. I technically consider this
+                    project still
+                    a work in progress as I'm planning to expand it more but nonetheless an excellent learning
+                    experience!
                 </p>
             </div>
-            <div class="homepageSlideshow">
-                <div class="hpslides">
-                    <img src="img/proj_img/monadstartscreen.png" alt="Monad start" id="slideimg">
+            <div class="slideshow">
+                <div class="slides">
+                    <img src="img/proj_img/nova_GUI.png" alt="nova_GUI" id="slideimgnova">
                 </div>
-                <div class="hpslides">
-                    <img src="img/proj_img/ibunn_gameplay1.png" alt="ibunn_gameplay1" id="slideimg">
+                <div class="slides">
+                    <img src="img/proj_img/nova_playlistOpen.png" alt="nova_playlistOpen" id="slideimgnova">
                 </div>
-                <div class="hpslides">
-                    <img src="img/proj_img/p4_gameplay.gif" alt="P4 gameplay" id="slideimg">
+                <div class="slides">
+                    <img src="img/proj_img/nova_songOpen.png" alt="nova_songOpen" id="slideimgnova">
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
             </div>
         </div>
-        <script src="home.js"></script>
 </body>
+<script src="slideshow.js"></script>
 
 </html>

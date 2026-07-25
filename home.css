@@ -153,6 +153,15 @@ a {
     position: relative;
 }
 
+#slideimgnova {
+    padding-top: 10px;
+    max-height: 350px;
+    max-width: 400px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
 p {
     font-family: 'sourcesansproreg';
     font-size: 13.5px;
@@ -206,6 +215,16 @@ div.p4 {
     display: block;
 }
 
+div.novasound {
+    height: 350px;
+    display: block;
+}
+
+div.ibunn {
+    height: 350px;
+    display: block;
+}
+
 div.p4 img {
     float: right;
     max-width: 400px;
@@ -214,16 +233,20 @@ div.p4 img {
     margin-right: 20px;
 }
 
-div.ibunn {
-    height: 350px;
-    display: block;
-}
-
 div.ibunn img {
     float: right;
     max-width: 400px;
     max-height: 300px;
     margin-top: 0%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+div.novasound img {
+    float: right;
+    max-height: 350px;
+    max-width: 420px;
+    margin-top: 0;
     margin-right: 20px;
 }
 
@@ -248,6 +271,14 @@ div.ibunn img {
 }
 
 #ibunnredir:hover {
+    color: rgb(81, 81, 82);
+}
+
+#novaredir {
+    color: inherit;
+}
+
+#novaredir:hover {
     color: rgb(81, 81, 82);
 }
 
@@ -291,7 +322,7 @@ div.ibunn img {
 .prev,
 .next {
     cursor: pointer;
-    position: relative;
+    position: bottom;
     top: 50%;
     width: auto;
     margin-top: -22px;
@@ -301,8 +332,8 @@ div.ibunn img {
     font-size: 13px;
     transform: .06s ease;
     border-radius: 0 3px 3px 0;
-    user-select: none;
     -webkit-user-select: auto;
+    user-select: none;
 }
 
 .next {
