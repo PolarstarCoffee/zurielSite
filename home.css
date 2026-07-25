@@ -278,6 +278,10 @@ div.novasound img {
     color: inherit;
 }
 
+#novathumbnail {
+    height: 300px;
+}
+
 #novaredir:hover {
     color: rgb(81, 81, 82);
 }
