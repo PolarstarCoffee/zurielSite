@@ -1,0 +1,2 @@
+Clean up project by filing html pages into their own folders.
+In addition to, the style sheet, and supplementary scripts
